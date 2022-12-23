@@ -1,0 +1,59 @@
+body {
+    text-align: center;
+    font-family: helvetica;
+    width: 100%;
+    margin: 0;
+}
+h1 {
+    color: rgb(66, 103,178);
+    font-size: 45px;
+}
+p {
+    font-size: 18px;
+    font-family: helvetica, bold;
+}
+h1, p {
+    margin: 0 auto;
+}
+.form {
+    width: 500px;
+    height: 400px;
+    background-color: white;
+    margin: 15px auto;
+    box-shadow: 0 0 5px 5px rgb(116, 113, 113);
+}
+input {
+    font-size: 18px;
+    width: 35vh;
+    height: 35px;
+    border-radius: 8px;
+    margin: 0 auto;
+}
+button {
+    width: 300px;
+    height: 40px;
+    border-radius: 8px;
+    font-size: 18px;
+    background-color: rgb(66, 103, 178);
+    color: white;
+}
+label {
+    display: block;
+    margin: 0.5em 0;
+}
+fieldset {
+    border: none;
+}
+a:active {
+    color: blue;
+}
+a:hover {
+    color: blue;
+}
+a:visited {
+    color: blue;
+}
+.new {
+    color: white;
+    background-color: green;
+}
